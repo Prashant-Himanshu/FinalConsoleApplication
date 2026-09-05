@@ -4,10 +4,9 @@ using System.Text;
 
 namespace FinalConsoleApplication
 {
-    internal class Class1
+    internal class Class2
     {
-
-        public void Fun1()
+        public void Fun3()
         {
             Console.WriteLine("First Change");
             Console.WriteLine("Second Chaange");
@@ -18,10 +17,6 @@ namespace FinalConsoleApplication
 
             Console.WriteLine("Fifth Chnage");
 
-        }
-        public void Fun2()
-        {
-            Console.WriteLine("I am Function 2");
         }
     }
 }
