@@ -9,7 +9,15 @@ namespace FinalConsoleApplication
 
         public void Fun1()
         {
-            Console.WriteLine("i  am class1 of this project");
+            Console.WriteLine("First Change");
+            Console.WriteLine("Second Chaange");
+
+            Console.WriteLine("third change");
+
+            Console.WriteLine("Fourth change");
+
+            Console.WriteLine("Fifth Chnage");
+
         }
     }
 }
