@@ -7,6 +7,7 @@
             Console.WriteLine("Hello, World!");
             Class1 c = new Class1();
             c.Fun1();
+            c.Fun2();
         }
     }
 }

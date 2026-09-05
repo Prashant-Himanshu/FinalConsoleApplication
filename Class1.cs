@@ -19,5 +19,9 @@ namespace FinalConsoleApplication
             Console.WriteLine("Fifth Chnage");
 
         }
+        public void Fun2()
+        {
+            Console.WriteLine("I am Function 2");
+        }
     }
 }
