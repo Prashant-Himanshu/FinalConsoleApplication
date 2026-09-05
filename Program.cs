@@ -5,7 +5,7 @@
         static void Main()
         {
 
-            Console.WriteLine("Conflictes fixed");
+            Console.WriteLine("I do not understand the topic");
 
         }
     }
