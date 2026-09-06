@@ -17,6 +17,7 @@ namespace FinalConsoleApplication
             Console.WriteLine("Fourth change");
 
             Console.WriteLine("Fifth Chnage");
+            Console.WriteLine("Edit on GitHub");
 
         }
         public void Fun2()
